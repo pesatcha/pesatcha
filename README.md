@@ -1,6 +1,6 @@
 ### Hello 👋
 ### Pornchanok Pesatcha
-###💬 Ask me about ...
+💬 Ask me about ...
 
 <!--
 **pesatcha/pesatcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
